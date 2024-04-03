@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         int ticketprice = 25000;
-        int mile = 30;
+        int mile = 20;
 
         int bonus = ticketprice / mile;
         System.out.println( "Количество начисленных миль: " +bonus);

@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
 .idea/
-.iml
+second_project.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
